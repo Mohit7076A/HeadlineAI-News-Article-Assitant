@@ -36,7 +36,7 @@
 
 3. **Configure API Keys**
 
-   Create a `.env` file and add your OpenAI and News API keys:
+   Create a `.env`  or `config.py` file and add your OpenAI and News API keys:
 
    ```bash
    OPENAI_API_KEY=your_openai_api_key
