@@ -1,0 +1,6 @@
+openai
+requests
+pathway
+litellm
+sentence-transformers
+pandas
